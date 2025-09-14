@@ -1,7 +1,7 @@
 Package: distro
 Type: Package
 Title: Linux Distribution Properties
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Neal", "Richardson", email = "neal.p.richardson@gmail.com", role = c("aut", "cre"))
   )
@@ -11,12 +11,14 @@ Description: In order to provide unified access to Linux distribution details
     'Python' package of the same name.
 License: Apache License (>= 2.0)
 Encoding: UTF-8
-LazyData: true
 Suggests: testthat (>= 2.1.0)
 RoxygenNote: 7.1.0.9000
+URL: https://enpiar.com/distro/,
+        https://github.com/nealrichardson/distro
+BugReports: https://github.com/nealrichardson/distro/issues
 NeedsCompilation: no
-Packaged: 2020-11-03 19:37:29 UTC; enpiar
+Packaged: 2025-09-14 19:37:04 UTC; npr
 Author: Neal Richardson [aut, cre]
 Maintainer: Neal Richardson <neal.p.richardson@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-11-09 09:50:02 UTC
+Date/Publication: 2025-09-14 19:50:08 UTC
